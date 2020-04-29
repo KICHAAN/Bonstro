@@ -1,6 +1,6 @@
 # payload-generator
 
-membuat paylaod di aplikasi termux
+membuat payload di aplikasi termux
 
 kode perintah 
 pkg install bash
